@@ -1,7 +1,8 @@
  ### Hola, I'm Vineeth Kumar Dacha 👋
 
 - 🔭 I’m currently working as a Inter on ...*~Mobile Application Development Using Flutter & Dart.*
-- 🌱 I’m currently learning...*~Dart, Flutter, Ai, Cloud(AWS, GCP),Multi-cloud Networking.*
+- 🌱 I’m currently learning...*~ Cloud(AWS, GCP),Multi-cloud Networking, DevOps.*
+- 🌱 My Skills...*~ Cloud(AWS, GCP),Multi-cloud Networking, DevOps(Docker, Kubernetes, Jenkins, Git & GitHub, Python, Javascript, Linux, Scripting, Maven.....*
 - 👯 I’m looking to collaborate on...*~Flutter Development, Cloud relaterd Stuff's.*
 - 🤔 I’m looking for help with...*~Aws*
 - 💬 Ask me about...*~Any Tech Related Stuff's*
